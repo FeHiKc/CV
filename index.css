@@ -1,6 +1,5 @@
 * {
     box-sizing: border-box;
-    text-decoration: none;
     margin: 0;
 }
 body {
@@ -107,5 +106,31 @@ span {
     color: #6096FF;
 }
 aside a {
-    text-decoration: underline;
+    margin-top: 6px;
+}
+
+ul.custom-list {
+    list-style: none;
+    margin-top: 6px;
+    padding: 0;
+
+}
+
+ul.custom-list li {
+    position: relative;
+    padding-left: 30px;
+    line-height: 1.5em;
+    margin-top: 6px;
+}
+
+ul.custom-list li:before {
+    content: "C:";
+    font-weight: bold;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+ul.custom-list li:nth-of-type(2):before {
+    content: "E:";
 }
