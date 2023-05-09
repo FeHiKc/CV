@@ -33,6 +33,128 @@ h1, h2, h3, h4{
     font-weight: 700;
 
 }
+
+.work li {
+    color: #595959;
+}
+ol {
+    padding-left: 20px;
+    margin-top: 8px;
+
+}
+
+
+.bio{
+    max-width: 702px;
+}
+
+
+img {
+    margin-top: 40px;
+}
+
+.aside-wrapper {
+    margin-top: 40px;
+    margin-left: 40px;
+}
+
+li {
+    font-size: 14px;
+    line-height: 24px;
+
+}
+
+.tech-skills {
+    margin-top: 40px;
+}
+.soft-skills {
+    margin-top: 40px;
+}
+aside a {
+    margin-top: 6px;
+}
+
+aside h2 {
+    color: #161D2A;
+}
+
+.custom-list {
+    list-style: none;
+    margin-top: 8px;
+    padding: 0;
+
+}
+.custom-list a {
+    margin-left: 8px;
+}
+
+.sidebar{
+    background: #595959;
+
+}
+
+.contacts-item {
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: #161D2A;
+}
+
+.contacts-link {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #2979FF;
+}
+
+article h1, p {
+    margin-top: 8px;
+}
+.projects {
+    margin-top: 40px;
+}
+.projects-item {
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: #000000;
+}
+.projects a{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    text-decoration-line: underline;
+    color: #2979FF;
+}
+.projects span {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #000000;
+}
+.work {
+    margin-top: 44px;
+}
+.work h3 {
+    margin-top: 8px;
+}
+ul {
+    padding-left: 20px;
+    margin-top: 8px;
+}
+.education {
+    margin-top: 40px;
+}
+.education .faded, h2, h3, h4, p {
+    margin-top: 8px;
+}
+span {
+    color: #6096FF;
+}
+.faded {
+    color: #A8A8A8;
+    margin-top: 12px;
+}
 h1  {
     font-size: 45px;
     line-height: 55px;
@@ -55,86 +177,3 @@ p {
     line-height: 24px;
     color: #595959;
 }
-
-.work li {
-    color: #595959;
-}
-ol {
-    padding-left: 20px;
-    margin-top: 8px;
-
-}
-ul {
-    padding-left: 20px;
-    margin-top: 8px;
-
-}
-
-.bio{
-    max-width: 702px;
-}
-
-.faded {
-    color: #A8A8A8;
-    margin-top: 12px;
-}
-img {
-    margin-top: 40px;
-}
-
-.aside-wrapper {
-    margin-top: 40px;
-    margin-left: 40px;
-}
-
-li {
-    font-size: 14px;
-    line-height: 24px;
-}
-
-.tech-skills {
-    margin-top: 40px;
-}
-.soft-skills {
-    margin-top: 40px;
-}
-
-article h1, p {
-    margin-top: 8px;
-}
-.projects {
-    margin-top: 40px;
-}
-.work {
-    margin-top: 44px;
-}
-.work h3 {
-    margin-top: 8px;
-}
-.education {
-    margin-top: 40px;
-}
-.education .faded, h2, h3, h4, p {
-    margin-top: 8px;
-}
-span {
-    color: #6096FF;
-}
-aside a {
-    margin-top: 6px;
-}
-
-aside h2 {
-    color: #161D2A;
-}
-
-.custom-list {
-    list-style: none;
-    margin-top: 6px;
-    padding: 0;
-
-}
-.custom-list a {
-    margin-left: 8px;
-}
-
